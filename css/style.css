@@ -109,7 +109,7 @@ list-style-type: none ;
     position: relative;
   margin-top: 47px;
   padding-top: 50%;
-  background: url('/img/trang\ chủ.png') top center / cover no-repeat;/* url là link ảnh */
+  background: url('/img/trang chủ.png') top center / cover no-repeat;/* url là link ảnh */
 }
 #slider  .text-canten{
     position: absolute;
